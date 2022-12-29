@@ -1,6 +1,6 @@
 [submodule "api"]
   path = api
-  url = ./api
+  url = https://github.com/Yoshi3lines/nuxt_rails_demo_api
 [submodule "front"]
   path = front
-  url = ./front
+  url = https://github.com/Yoshi3lines/nuxt_rails_demo_front
